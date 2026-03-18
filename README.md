@@ -25,10 +25,10 @@ Proje kapsamında aykırı değer temizleme (outlier detection), eksik veri tama
 ## Proje Raporları ve Analizler
 Her bir aşama için hazırlanan detaylı analiz raporlarına, görsellere ve model performans çıktılarına aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-* [Proje 1_2 Raporu: ](./Raporlar/VeriBilimi_analiz1-2 RAPORU.docx)
-* [Proje 3 Raporu: ](./Raporlar/VeriBilimi_analiz3 RAPORU.docx)
-* [Proje 4 Raporu: ](./Raporlar/VeriBilimi_analiz4 RAPORU.docx)
-* [Proje 5 Raporu: ](./Raporlar/VeriBilimi_analiz5 RAPORU.docx)
+* [Proje 1_2 Analiz Raporu:](./Raporlar/VeriBilimi_analiz1-2%20RAPORU.docx)
+* [Proje 3 Analiz Raporu:](./Raporlar/VeriBilimi_analiz3%20RAPORU.docx)
+* [Proje 4 Analiz Raporu:](./Raporlar/VeriBilimi_analiz4%20RAPORU.docx)
+* [Proje 5 Analiz Raporu:](./Raporlar/VeriBilimi_analiz5%20RAPORU.docx)
 
 ## Sonuç
 Bu proje, veri setinden anlamlı çıkarımlar yapma ve tahminleme modellerini bilimsel yöntemlerle optimize etme yeteneğimi yansıtmaktadır.
